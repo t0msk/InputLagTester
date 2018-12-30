@@ -17,3 +17,7 @@ This program was created originally for testing Input Lag between Windows OS run
 ## Screenshot
 
 ![Screenshot of Input Lag Tester](https://raw.githubusercontent.com/t0msk/InputLagTester/master/screenshot.png)
+
+## Download
+
+https://github.com/t0msk/InputLagTester/releases
